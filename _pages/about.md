@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am **Yuxuan Hu** (胡雨璇), a Ph.D. student in Electronic and Information Engineering at the Key Laboratory of Electromagnetic Wave Information Science, **Fudan University**, advised by Prof. Feng Xu. I am currently a Visiting Ph.D. Student at the School of Mechanical and Aerospace Engineering, **Nanyang Technological University (NTU)**, Singapore, working with Prof. Jianfei Yang.
 
-My research focuses on **millimeter-wave (mmWave) radar sensing for robots** — including contactless human vital-sign monitoring, human activity and gesture recognition, and embodied (robot-mounted) perception for human–robot interaction.
+My research focuses on **millimeter-wave (mmWave) radar sensing for robots** — including contactless human vital-sign monitoring, human activity and gesture recognition, and embodied perception for human–robot interaction.
 
 # 🔥 News
 - *2025.10*: &nbsp;✈️ Started as a Visiting Ph.D. Student at NTU, Singapore.
