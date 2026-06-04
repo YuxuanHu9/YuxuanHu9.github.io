@@ -60,7 +60,7 @@ WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robot
 </div>
 </div>
 
-- [The Feasibility of Q-band Millimeter Wave on Hand-Gesture Recognition for Indoor FTTR Scenario](https://doi.org/10.1109/IWS58240.2023.10222835), **Yuxuan Hu**, Zhaoyang Xia, Yanbo Zhao, Feng Xu, **IEEE MTT-S IWS 2023**
+- [The Feasibility of Q-band Millimeter Wave on Hand-Gesture Recognition for Indoor FTTR Scenario](https://doi.org/10.1109/IWS58240.2023.10222835), **Yuxuan Hu**, Zhaoyang Xia, Yanbo Zhao, Feng Xu, **IEEE MTT-S IWS 2023** &nbsp;🎤 *Oral*
 - [An Attention-Enhanced Hand-Gesture Recognition Method on Millimeter Wave Radar](https://doi.org/10.1109/ICMMT61774.2024.10672055), Yanbo Zhao, Zhaoyang Xia, **Yuxuan Hu**, Feng Xu, **ICMMT 2024** &nbsp;🏆 *Best Student Paper*
 - [Using FMCW Millimeter-Wave Radar to Realize the Detection of Vital Signs](https://doi.org/10.1109/ICMMT52847.2021.9617873), **Yuxuan Hu**, Zhaoyang Xia, Feng Xu, **ICMMT 2021**
 
