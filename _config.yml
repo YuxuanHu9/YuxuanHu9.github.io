@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Hu"
-description              : "Ph.D. Student at Fudan University, working on millimeter-wave radar sensing."
+description              : "Ph.D. Student at Fudan University. Embodied millimeter-wave sensing for human–robot interaction."
 repository               : "YuxuanHu9/YuxuanHu9.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxuan Hu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student, Fudan University"
-  location         : "Shanghai, China"
+  bio              : "Ph.D. Student @ Fudan · Visiting Ph.D. @ NTU"
+  location         : "Singapore"
   employer         : "Fudan University"
   pubmed           : 
   googlescholar    :   # hidden — no Google Scholar link shown
