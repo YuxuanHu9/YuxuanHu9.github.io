@@ -22,11 +22,9 @@ Hello! I am **Yuxuan Hu** (胡雨璇), a Ph.D. student in Electronic and Informa
 My research focuses on **millimeter-wave (mmWave) radar sensing for robots** — including contactless human vital-sign monitoring, human activity and gesture recognition, and embodied (robot-mounted) perception for human–robot interaction.
 
 # 🔥 News
-- *2026*: &nbsp;📄 "WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots" submitted (under review).
 - *2025.10*: &nbsp;✈️ Started as a Visiting Ph.D. Student at NTU, Singapore.
-- *2025*: &nbsp;🎉 Our paper on simulated-radar HAR with domain adaptation is published in IEEE TIM.
 - *2024*: &nbsp;🏆 Best Student Paper Award at ICMMT 2024.
-- *2023.09*: &nbsp;🎓 Started my Ph.D. at the Electromagnetic Wave (EMW) Lab, Fudan University.
+- *2023.09*: &nbsp;🎓 Started my Ph.D. at the EMW Lab, Fudan University.
 - *2020.09*: &nbsp;🎓 Joined the EMW Lab, Fudan University as an M.Sc. student.
 
 # 📝 Publications 
