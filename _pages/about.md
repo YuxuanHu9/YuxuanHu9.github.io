@@ -32,7 +32,7 @@ My research focuses on **millimeter-wave (mmWave) radar sensing for robots** —
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots](#)
+[WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots](https://arxiv.org/abs/2601.07454)
 
 **Yuxuan Hu**, Kuangji Zuo, Boyu Ma, Shihao Li, Zhaoyang Xia, Feng Xu, Jianfei Yang
 
