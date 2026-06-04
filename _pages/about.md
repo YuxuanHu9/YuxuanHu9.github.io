@@ -34,7 +34,7 @@ WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robot
 
 **Yuxuan Hu**, Kuangji Zuo, Boyu Ma, Shihao Li, Zhaoyang Xia, Feng Xu, Jianfei Yang
 
-- Room-scale mmWave human–robot gesture interaction: virtual-radar geometric alignment + CycleGAN spectrum enhancement + dual-branch channel attention (DBCA). Multi-position accuracy 97.67%, unseen-position gap only 2.54 pp; first room-scale mmWave gesture benchmark (6 positions × 5 gestures, 12,000 samples). *(Under review)*
+- Room-scale mmWave human–robot gesture interaction. *(Under review)*
 </div>
 </div>
 
