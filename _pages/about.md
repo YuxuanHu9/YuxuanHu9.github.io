@@ -90,8 +90,5 @@ My research focuses on **millimeter-wave (mmWave) radar sensing for robots** —
 - *2020.09 - 2023.06*, M.Sc. in Electronic and Information Engineering, Fudan University, Shanghai, China.
 - *2016.09 - 2020.06*, B.Sc. in Electronic and Information Engineering, Shanghai University, Shanghai, China.
 
-# 💬 Oral Presentations
-- *2023*, Oral presentation at **IEEE MTT-S International Wireless Symposium (IWS) 2023**: *The Feasibility of Q-band Millimeter Wave on Hand-Gesture Recognition for Indoor FTTR Scenario*.
-
 # 💻 Internships
 - *2021.08 - 2022.08*, Radar-Visual Fusion Algorithm Intern, **Huawei Technologies Co., Ltd.**, China.
