@@ -27,38 +27,47 @@ My research focuses on **millimeter-wave (mmWave) radar sensing for robots** —
 - *2023.09*: &nbsp;🎓 Started my Ph.D. at the EMW Lab, Fudan University.
 - *2020.09*: &nbsp;🎓 Joined the EMW Lab, Fudan University as an M.Sc. student.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots <!-- [TODO: add arXiv/paper link] -->
+[WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots](#)
 
 **Yuxuan Hu**, Kuangji Zuo, Boyu Ma, Shihao Li, Zhaoyang Xia, Feng Xu, Jianfei Yang
 
-- Room-scale mmWave human–robot gesture interaction. *(Under review)*
+*Under review, 2026*
+
+- A room-scale mmWave gesture-interaction framework for humanoid robots that removes the fixed-position constraint, using geometry-aware alignment, CycleGAN spectrum enhancement, and a dual-branch channel-attention network (DBCA).
+- Achieves 97.67% multi-position accuracy with only a 2.54 pp gap at unseen positions; introduces the first room-scale mmWave gesture benchmark (6 positions × 5 gestures × 12,000 samples).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2025</div><img src='images/har_tim2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Human Activity Recognition Trained on Simulated Millimeter-Wave Radar Data With Domain Adaptation](https://doi.org/10.1109/TIM.2025.3558216)
 
 **Yuxuan Hu**, Xianghan Yang, Zhaoyang Xia, Feng Xu
 
-- IEEE Transactions on Instrumentation and Measurement, vol. 74, 2025. MoCap-driven FMCW simulation + domain adaptation, up to 99.0% cross-subject accuracy.
+*IEEE Transactions on Instrumentation and Measurement, vol. 74, 2025*
+
+- A MoCap-driven FMCW data-generation pipeline plus Attention UNet++ domain adaptation that lets radar HAR be trained largely on simulated data.
+- Reaches 97.31% cross-domain accuracy (+21.56 pp over pix2pix) with 90% of training data simulated.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2024</div><img src='images/respiration_tim2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Investigating Respiration–Heartbeat Separation Through a Multipoint Scattering Chest Wall Motion Model: 60-GHz FMCW Radar Assessment](https://doi.org/10.1109/TIM.2024.3420356)
 
 **Yuxuan Hu**, Zhaoyang Xia, Feng Xu
 
-- IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1–13, 2024. Respiration PCC 0.994, heart-rate PCC 0.941.
+*IEEE Transactions on Instrumentation and Measurement, vol. 73, 2024*
+
+- A 9-point cylindrical dynamic scattering chest-wall model with radial position tracking and adaptive Gaussian filtering to separate respiration from heartbeat.
+- Achieves respiration PCC 0.994 and heart-rate PCC 0.941, with 99% of heart-rate errors under 4 BPM.
 </div>
 </div>
 
