@@ -38,8 +38,7 @@ My research focuses on **millimeter-wave (mmWave) radar sensing for robots** —
 
 *Under review, 2026*
 
-- A room-scale mmWave gesture-interaction framework for humanoid robots that removes the fixed-position constraint, using geometry-aware alignment, CycleGAN spectrum enhancement, and a dual-branch channel-attention network (DBCA).
-- Achieves 97.67% multi-position accuracy with only a 2.54 pp gap at unseen positions; introduces the first room-scale mmWave gesture benchmark (6 positions × 5 gestures × 12,000 samples).
+- Room-scale mmWave gesture interaction for humanoid robots — removes the fixed-position constraint; 97.67% accuracy, only 2.54 pp drop at unseen positions.
 </div>
 </div>
 
