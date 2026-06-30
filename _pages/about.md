@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am **Yuxuan Hu** (胡雨璇), a Ph.D. student in Electronic and Information Engineering at the Key Laboratory of Electromagnetic Wave Information Science, **Fudan University**, advised by [Prof. Feng Xu](https://scholar.google.com/citations?user=i-N1K9oAAAAJ&hl=en). I am currently a Visiting Ph.D. Student at the School of Mechanical and Aerospace Engineering, **Nanyang Technological University (NTU)**, Singapore, with the [MARS Lab](https://marslab.tech/), working with [Prof. Jianfei Yang](https://scholar.google.com/citations?hl=zh-CN&user=V25k08UAAAAJ&view_op=list_works).
+Hello! I am **Yuxuan Hu** (胡雨璇), a Ph.D. student in Electronic and Information Engineering at **Fudan University**, advised by [Prof. Feng Xu](https://scholar.google.com/citations?user=i-N1K9oAAAAJ&hl=en). I am currently a Visiting Ph.D. Student at the School of Mechanical and Aerospace Engineering, **Nanyang Technological University (NTU)**, Singapore, with the [MARS Lab](https://marslab.tech/), working with [Prof. Jianfei Yang](https://scholar.google.com/citations?hl=zh-CN&user=V25k08UAAAAJ&view_op=list_works).
 
-My research focuses on **millimeter-wave (mmWave) radar sensing for robots** — including contactless human vital-sign monitoring, human activity and gesture recognition, and embodied perception for human–robot interaction.
+My research centers on **Embodied mmWave Sensing**, at the intersection of millimeter-wave radar, robotics, and machine learning. I am broadly interested in how embodied agents can actively perceive and understand the physical world, making wireless sensing robust and practical beyond controlled environments.
 
 # 🔥 News
 - *2025.10*: &nbsp;✈️ Started as a Visiting Ph.D. Student at NTU, Singapore.
