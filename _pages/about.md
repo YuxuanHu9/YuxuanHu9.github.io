@@ -31,32 +31,6 @@ My research focuses on **millimeter-wave (mmWave) radar sensing for robots** —
 
 ## Recent Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/activevital.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ActiveVital: Geometry-Aware Embodied Vital Signs Monitoring for Home Healthcare Robots](https://arxiv.org/abs/2606.30275)
-
-**Yuxuan Hu**, Shihao Li, Yang Xiao, Gen Li, Feng Xu, Jianfei Yang
-
-*IROS, 2026*
-
-- A vision-guided robot actively steers its radar to near-normal incidence on the chest; respiration interval error 0.87→0.14 s, heart rate 13.59→2.22 bpm.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/emfall.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots](https://arxiv.org/abs/2606.11109)
-
-Yanshuo Lu, **Yuxuan Hu**, Shenghai Yuan, Xinyu Zhou, Kuangji Zuo, Bofan Lyu, XiChen Yuan, Jianfei Yang
-
-*IROS, 2026*
-
-- A mobile humanoid robot repositions itself to keep a person visible under occlusion and poor lighting for day-and-night mmWave fall detection; validated across eight indoor spaces.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,6 +43,33 @@ Yanshuo Lu, **Yuxuan Hu**, Shenghai Yuan, Xinyu Zhou, Kuangji Zuo, Bofan Lyu, Xi
 - Room-scale mmWave gesture interaction for humanoid robots — removes the fixed-position constraint; 97.67% accuracy, only 2.54 pp drop at unseen positions.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/activevital.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ActiveVital: Geometry-Aware Embodied Vital Signs Monitoring for Home Healthcare Robots](https://arxiv.org/abs/2606.30275)
+
+**Yuxuan Hu**, Shihao Li, Yang Xiao, Gen Li, Feng Xu, Jianfei Yang
+
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026*
+
+- A vision-guided robot actively steers its radar to near-normal incidence on the chest; respiration interval error 0.87→0.14 s, heart rate 13.59→2.22 bpm.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/emfall.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots](https://arxiv.org/abs/2606.11109)
+
+Yanshuo Lu, **Yuxuan Hu**, Shenghai Yuan, Xinyu Zhou, Kuangji Zuo, Bofan Lyu, XiChen Yuan, Jianfei Yang
+
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026*
+
+- A mobile humanoid robot repositions itself to keep a person visible under occlusion and poor lighting for day-and-night mmWave fall detection; validated across eight indoor spaces.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2025</div><img src='images/har_tim2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
