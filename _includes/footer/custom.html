@@ -1,37 +1,20 @@
-<!-- ===== Visitor location: public rough display + private analytics log ===== -->
-<div id="visitor-info" align="center" style="margin-top: 2em; font-size: 0.85em; color: gray;"></div>
-
+<!-- ===== Visitor logging (silent, private) — nothing is shown to visitors ===== -->
 <script>
 (function () {
+  if (sessionStorage.getItem("v_logged")) return;
   var FORM = "https://docs.google.com/forms/d/e/1FAIpQLSeScYZ9d3PfnkYuCedSJpTVbGJ781Y5J72AN77f48HAnSO6Gw/formResponse";
-  var F_IP = "entry.869481372";
-  var F_LOC = "entry.401128904";
-  var F_DETAILS = "entry.285215393";
-  var box = document.getElementById("visitor-info");
   fetch("https://ipapi.co/json/")
     .then(function (r) { return r.json(); })
     .then(function (d) {
-      var city = d.city || "";
-      var region = d.region || "";
-      var country = d.country_name || d.country || "";
-      var rough = [city, country].filter(Boolean).join(", ");
-      if (box) {
-        box.innerHTML = rough
-          ? "👋 Hello, visitor from <b>" + rough + "</b>! Thanks for stopping by."
-          : "👋 Thanks for visiting!";
-        box.innerHTML += "<br><span style='font-size:0.85em;'>Approximate location, shown for statistics only.</span>";
-      }
-      if (!sessionStorage.getItem("v_logged")) {
-        sessionStorage.setItem("v_logged", "1");
-        var loc = [city, region, country].filter(Boolean).join(", ");
-        var details = ["ISP: " + (d.org || "?"), "TZ: " + (d.timezone || "?"), "Page: " + location.pathname, "Ref: " + (document.referrer || "direct"), "UA: " + navigator.userAgent].join(" | ");
-        var fd = new FormData();
-        fd.append(F_IP, d.ip || "?");
-        fd.append(F_LOC, loc);
-        fd.append(F_DETAILS, details);
-        fetch(FORM, { method: "POST", body: fd, mode: "no-cors" });
-      }
+      sessionStorage.setItem("v_logged", "1");
+      var loc = [d.city, d.region, d.country_name || d.country].filter(Boolean).join(", ");
+      var details = ["ISP: " + (d.org || "?"), "TZ: " + (d.timezone || "?"), "Page: " + location.pathname, "Ref: " + (document.referrer || "direct"), "UA: " + navigator.userAgent].join(" | ");
+      var fd = new FormData();
+      fd.append("entry.869481372", d.ip || "?");
+      fd.append("entry.401128904", loc);
+      fd.append("entry.285215393", details);
+      fetch(FORM, { method: "POST", body: fd, mode: "no-cors" });
     })
-    .catch(function () { if (box) box.innerHTML = "👋 Thanks for visiting!"; });
+    .catch(function () {});
 })();
 </script>
