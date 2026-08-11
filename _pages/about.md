@@ -38,7 +38,7 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 
 **Yuxuan Hu**, Kuangji Zuo, Boyu Ma, Shihao Li, Zhaoyang Xia, Feng Xu, Jianfei Yang
 
-*Under review, 2026*
+*IEEE TII 2026*
 
 - Room-scale mmWave gesture interaction for humanoid robots — removes the fixed-position constraint; 97.67% accuracy, only 2.54 pp drop at unseen positions.
 </div>
