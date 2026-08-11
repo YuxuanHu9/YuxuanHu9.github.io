@@ -32,7 +32,7 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 
 ## Recent Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tactile_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/tactile_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning](https://arxiv.org/abs/2608.07558)
