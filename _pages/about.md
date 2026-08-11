@@ -31,14 +31,14 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 
 ## Recent Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2026</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots](https://arxiv.org/abs/2601.07454)
 
 **Yuxuan Hu**, Kuangji Zuo, Boyu Ma, Shihao Li, Zhaoyang Xia, Feng Xu, Jianfei Yang
 
-*IEEE TII 2026*
+*IEEE Transactions on Industrial Informatics, 2026*
 
 - Room-scale mmWave gesture interaction for humanoid robots — removes the fixed-position constraint; 97.67% accuracy, only 2.54 pp drop at unseen positions.
 </div>
