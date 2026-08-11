@@ -22,6 +22,7 @@ Hello! I am **Yuxuan Hu** (胡雨璇), a Ph.D. student in Electronic and Informa
 My research centers on **Embodied mmWave Sensing**, at the intersection of millimeter-wave radar, robotics, and machine learning. I am broadly interested in how embodied agents can actively perceive and understand the physical world, making wireless sensing robust and practical beyond controlled environments.
 
 # 🔥 News
+- *2026*: &nbsp;📄 Our survey "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning" is available on [arXiv](https://arxiv.org/abs/2608.07558) (under review).
 - *2025.10*: &nbsp;✈️ Started as a Visiting Ph.D. Student at NTU, Singapore.
 - *2024*: &nbsp;🏆 Best Student Paper Award at ICMMT 2024.
 - *2023.09*: &nbsp;🎓 Started my Ph.D. at the EMW Lab, Fudan University.
@@ -30,6 +31,19 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 # 📝 Publications
 
 ## Recent Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tactile_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning](https://arxiv.org/abs/2608.07558)
+
+Shilin Shan, Chuhao Zhou, Ruize Wang, ..., **Iris Yuxuan Hu**, ..., Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang
+
+*Under review, 2026*
+
+- A survey unifying force/tactile-aware robot learning under **TF-ART**, a taxonomy spanning multimodal sensing and multi-phase policy-to-control design for contact-rich manipulation.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2026</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
