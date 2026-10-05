@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -31,6 +31,51 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 # 📝 Publications
 
 ## Recent Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/hear.png' alt="HEAR overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing](https://arxiv.org/abs/2610.03570)
+
+**Yuxuan Hu**, Shilin Shan, Jianfei Yang, Feng Xu
+
+*Under review, 2026*
+
+[Project](https://yuxuanhu9.github.io/HEAR/)
+
+- Simulation-trained heartbeat observability assessment enables selective mmWave heart-rate estimation; zero-shot transfer to real data reduces MAE from 17.9 to 1.6 BPM at 50% coverage on the 120 GHz dataset.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/freespeed.png' alt="FreeSpeed overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FreeSpeed: Training-Free Speed Control for Generative Robot Policies**
+
+**Yuxuan Hu\***, Shilin Shan\*, Qiheng Wang, Jinghan Yang, Junqiao Fan, Hao Wan, Jianfei Yang
+
+*Under review, 2026 · \* Equal contribution*
+
+[Project](https://yuxuanhu9.github.io/FreeSpeed/)
+
+- A training-free plug-and-play module adjusts frozen robot policies' execution speed; evaluated across three policy families and 50 simulated tasks, with 94.0% average success on four real-world tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/mmhri.png' alt="Privacy-preserving mmHRI" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar](https://arxiv.org/abs/2609.34220)
+
+Junqiao Fan, **Yuxuan Hu**, Bofan Lyu, Yanshuo Lu, Pengfei Liu, Jiarui Zhang, Fangqiang Ding, Lihua Xie, Gen Li, Jianfei Yang
+
+*Under review, 2026*
+
+[Project](https://fanjunqiao.github.io/mmHRI-site/)
+
+- Radar-derived human actions and poses guide a VLA policy for object delivery and retrieval through privacy curtains, achieving 85.09% action-recognition accuracy in the curtain setting.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/tactile_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,7 +128,6 @@ Yanshuo Lu, **Yuxuan Hu**, Shenghai Yuan, Xinyu Zhou, Kuangji Zuo, Bofan Lyu, Xi
 - A mobile humanoid robot repositions itself to keep a person visible under occlusion and poor lighting for day-and-night mmWave fall detection; validated across eight indoor spaces.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2025</div><img src='images/har_tim2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
