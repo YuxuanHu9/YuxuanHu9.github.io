@@ -84,7 +84,7 @@ Junqiao Fan, **Yuxuan Hu**, Bofan Lyu, Yanshuo Lu, Pengfei Liu, Jiarui Zhang, Fa
 
 Shilin Shan\*, Chuhao Zhou\*, ..., **Iris Yuxuan Hu\***, ..., Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang
 
-*Under review, 2026*
+*Under review, 2026 · \* Equal contribution*
 
 - A survey unifying force/tactile-aware robot learning under **TF-ART**, a taxonomy spanning multimodal sensing and multi-phase policy-to-control design for contact-rich manipulation.
 </div>
