@@ -50,7 +50,7 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/freespeed.png' alt="FreeSpeed overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**FreeSpeed: Training-Free Speed Control for Generative Robot Policies**
+[FreeSpeed: Training-Free Speed Control for Generative Robot Policies](https://arxiv.org/abs/2610.05734)
 
 **Yuxuan Hu\***, Shilin Shan\*, Qiheng Wang, Jinghan Yang, Junqiao Fan, Hao Wan, Jianfei Yang
 
