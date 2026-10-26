@@ -60,21 +60,6 @@ Shilin Shan\*, Chuhao Zhou\*, Ruize Wang\*, Xinyan Chen\*, Xiangyu Chen\*, Xinyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/hear.png' alt="HEAR overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing](https://arxiv.org/abs/2610.03570)
-
-**Yuxuan Hu**, Shilin Shan, Jianfei Yang, Feng Xu
-
-*Under review, 2026*
-
-[Project](https://yuxuanhu9.github.io/HEAR/)
-
-- Simulation-trained heartbeat observability assessment enables selective mmWave heart-rate estimation; zero-shot transfer to real data reduces MAE from 17.9 to 1.6 BPM at 50% coverage on the 120 GHz dataset.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/mmhri.png' alt="Privacy-preserving mmHRI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -87,6 +72,21 @@ Junqiao Fan, **Yuxuan Hu**, Bofan Lyu, Yanshuo Lu, Pengfei Liu, Jiarui Zhang, Fa
 [Project](https://fanjunqiao.github.io/mmHRI-site/)
 
 - Radar-derived human actions and poses guide a VLA policy for object delivery and retrieval through privacy curtains, achieving 85.09% action-recognition accuracy in the curtain setting.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/hear.png' alt="HEAR overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing](https://arxiv.org/abs/2610.03570)
+
+**Yuxuan Hu**, Shilin Shan, Jianfei Yang, Feng Xu
+
+*Under review, 2026*
+
+[Project](https://yuxuanhu9.github.io/HEAR/)
+
+- Simulation-trained heartbeat observability assessment enables selective mmWave heart-rate estimation; zero-shot transfer to real data reduces MAE from 17.9 to 1.6 BPM at 50% coverage on the 120 GHz dataset.
 </div>
 </div>
 
