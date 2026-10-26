@@ -32,6 +32,34 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 
 ## Recent Highlights
 
+[FreeSpeed: Training-Free Speed Control for Generative Robot Policies](https://arxiv.org/abs/2610.05734)
+
+**Yuxuan Hu\***, Shilin Shan\*, Qiheng Wang, Jinghan Yang, Junqiao Fan, Hao Wan, Jianfei Yang
+
+*Under review, 2026 · \* Equal contribution*
+
+[Project](https://yuxuanhu9.github.io/FreeSpeed/)
+
+- A training-free plug-and-play module adjusts frozen robot policies' execution speed; evaluated across three policy families and 50 simulated tasks, with 94.0% average success on four real-world tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/mmhri.png' alt="Privacy-preserving mmHRI" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning](https://arxiv.org/abs/2608.07558)
+
+Shilin Shan\*, Chuhao Zhou\*, ..., **Iris Yuxuan Hu\***, ..., Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang
+
+*Under review, 2026 · \* Equal contribution*
+
+- A survey unifying force/tactile-aware robot learning under **TF-ART**, a taxonomy spanning multimodal sensing and multi-phase policy-to-control design for contact-rich manipulation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2026</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/hear.png' alt="HEAR overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,21 +78,6 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/freespeed.png' alt="FreeSpeed overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FreeSpeed: Training-Free Speed Control for Generative Robot Policies](https://arxiv.org/abs/2610.05734)
-
-**Yuxuan Hu\***, Shilin Shan\*, Qiheng Wang, Jinghan Yang, Junqiao Fan, Hao Wan, Jianfei Yang
-
-*Under review, 2026 · \* Equal contribution*
-
-[Project](https://yuxuanhu9.github.io/FreeSpeed/)
-
-- A training-free plug-and-play module adjusts frozen robot policies' execution speed; evaluated across three policy families and 50 simulated tasks, with 94.0% average success on four real-world tasks.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/mmhri.png' alt="Privacy-preserving mmHRI" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar](https://arxiv.org/abs/2609.34220)
 
 Junqiao Fan, **Yuxuan Hu**, Bofan Lyu, Yanshuo Lu, Pengfei Liu, Jiarui Zhang, Fangqiang Ding, Lihua Xie, Gen Li, Jianfei Yang
@@ -78,19 +91,6 @@ Junqiao Fan, **Yuxuan Hu**, Bofan Lyu, Yanshuo Lu, Pengfei Liu, Jiarui Zhang, Fa
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/tactile_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning](https://arxiv.org/abs/2608.07558)
-
-Shilin Shan\*, Chuhao Zhou\*, ..., **Iris Yuxuan Hu\***, ..., Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang
-
-*Under review, 2026 · \* Equal contribution*
-
-- A survey unifying force/tactile-aware robot learning under **TF-ART**, a taxonomy spanning multimodal sensing and multi-phase policy-to-control design for contact-rich manipulation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2026</div><img src='images/waveman.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots](https://arxiv.org/abs/2601.07454)
