@@ -19,7 +19,9 @@ redirect_from:
 
 Hello! I am **Yuxuan Hu** (胡雨璇), a Ph.D. student in Electronic and Information Engineering at **Fudan University**, advised by [Prof. Feng Xu](https://scholar.google.com/citations?user=i-N1K9oAAAAJ&hl=en). I am currently a Visiting Ph.D. Student at the School of Mechanical and Aerospace Engineering, **Nanyang Technological University (NTU)**, Singapore, with the [MARS Lab](https://marslab.tech/), working with [Prof. Jianfei Yang](https://scholar.google.com/citations?hl=zh-CN&user=V25k08UAAAAJ&view_op=list_works).
 
-My research centers on **Embodied mmWave Sensing**, at the intersection of millimeter-wave radar, robotics, and machine learning. I am broadly interested in how embodied agents can actively perceive and understand the physical world, making wireless sensing robust and practical beyond controlled environments.
+My current research interests focus on **agentic robots with force and tactile sensing**, particularly how robots can use interaction feedback to infer contact states, reason about physical interactions, and inform manipulation decisions. I am interested in integrating force and tactile feedback into agent reasoning to enable robots to adapt their actions and strategies during contact-rich manipulation. Previously, my research focused on **millimeter-wave radar for human–robot interaction**, with an emphasis on robust, privacy-preserving human sensing for interactive robots.
+
+I welcome opportunities to exchange research ideas, learn from others, and explore collaborations. Feel free to reach out via [email](mailto:huyx23@m.fudan.edu.cn)!
 
 # 🔥 News
 - *2026*: &nbsp;📄 Our survey "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning" is available on [arXiv](https://arxiv.org/abs/2608.07558) (under review).
