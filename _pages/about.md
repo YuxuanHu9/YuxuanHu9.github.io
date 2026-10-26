@@ -49,7 +49,7 @@ My research centers on **Embodied mmWave Sensing**, at the intersection of milli
 
 [Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning](https://arxiv.org/abs/2608.07558)
 
-Shilin Shan\*, Chuhao Zhou\*, ..., **Iris Yuxuan Hu\***, ..., Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang
+Shilin Shan\*, Chuhao Zhou\*, Ruize Wang\*, Xinyan Chen\*, Xiangyu Chen\*, Xinyu Zhou\*, Boyu Ma\*, **Yuxuan Hu\***, Jingliang Li, Celeste Yuxuan Hu, Geng Li, Guohao Chen, Tianrui Zhu, Zhe Li, Yanjie Ze, Haoran Geng, Zhiyang Dou, Jianxin Bi, Yuejiang Liu, Jianshu Zhou, Jiachen Li, Paul Liang, Tatsuya Harada, Robert Katzschmann, Harold Soh, Na Li, Edward Johns, Danica Kragic, Jan Peters, Wojciech Matusik, Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang
 
 *Under review, 2026 · \* Equal contribution*
 
