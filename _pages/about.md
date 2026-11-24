@@ -24,7 +24,8 @@ My current research interests focus on **agentic robots with force and tactile s
 I welcome opportunities to exchange research ideas, learn from others, and explore collaborations. Feel free to reach out via [email](mailto:huyx23@m.fudan.edu.cn)!
 
 # 🔥 News
-- *2026*: &nbsp;📄 Our survey "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning" is available on [arXiv](https://arxiv.org/abs/2608.07558) (under review).
+- *2026.11*: &nbsp;🤖 Our paper [Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation](https://arxiv.org/abs/2611.29377) is available on arXiv. Check out the [project page](https://ntumars.github.io/ContactHarness/)!
+- *2026.8*: &nbsp;📄 Our survey "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning" is available on [arXiv](https://arxiv.org/abs/2608.07558) (under review).
 - *2025.10*: &nbsp;✈️ Started as a Visiting Ph.D. Student at NTU, Singapore.
 - *2024*: &nbsp;🏆 Best Student Paper Award at ICMMT 2024.
 - *2023.09*: &nbsp;🎓 Started my Ph.D. at the EMW Lab, Fudan University.
@@ -33,6 +34,21 @@ I welcome opportunities to exchange research ideas, learn from others, and explo
 # 📝 Publications
 
 ## Recent Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/contact_harness.png' alt="Contact Harness teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation](https://arxiv.org/abs/2611.29377)
+
+Shilin Shan\*, **Yuxuan Hu\***, Chuhao Zhou\*, Yimeng Dong, Bohan Hou, Jiaqi Bai, Boyu Ma, Jiahua Dong, Jianfei Yang
+
+*Under review, 2026 · \* Equal contribution*
+
+[Project](https://ntumars.github.io/ContactHarness/)
+
+- Enables frozen VLM agents to perform contact-rich manipulation through multimodal feedback, reusable textual skills, and compliant execution, without model fine-tuning, task demonstrations, or simulation training.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/freespeed.png' alt="FreeSpeed overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
