@@ -27,7 +27,7 @@ author:
   location         : "Singapore"
   employer         :   # hidden — location alone is shown
   pubmed           : 
-  googlescholar    :   # hidden — no Google Scholar link shown
+  googlescholar    : "https://scholar.google.com/citations?user=R5uN94kAAAAJ"
   email            : "huyx23@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
